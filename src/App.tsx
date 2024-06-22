@@ -5,7 +5,7 @@ import LogIn from './components/LogIn';
 import SignOut from './components/SignOut';
 
 const config = {
-  publicKey: process.env.MEMBERSTACK_PUBLICK_KEY || '',
+  publicKey: process.env.MEMBERSTACK_PUBLIC_KEY || '',
 };
 
 function App() {

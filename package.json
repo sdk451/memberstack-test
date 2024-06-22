@@ -2,6 +2,7 @@
   "name": "memberstack-test",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://127.0.0.1:3000/",
   "dependencies": {
     "@memberstack/react": "^2.0.29",
     "@testing-library/jest-dom": "^5.14.1",

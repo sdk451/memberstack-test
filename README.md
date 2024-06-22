@@ -5,7 +5,15 @@
 
 ## Run Project
 
-In the project directory, you can run:
+To Get started, in the project directory, run:
 
-1. `yarn`
-2. `yarn start`
+1. `npm install`
+# 2. `npm install @memberstack/dom`
+3. `npm install @memberstack/react`
+4. `npm install @memberstack/admin`
+5. `npm start`
+
+
+For production builds in the project directory, run:
+
+1. `npm build`
